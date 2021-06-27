@@ -7,9 +7,13 @@ The purpose of this analysis is to analize the temperature statistics from the m
 **RESULTS**
 
 -> June Temperature summary statistics show that from a total count of 1700  the mean is 74.9, min is 64.0 and max is 85.0
+
 ![](Screen%20Shot%202021-06-27%20at%203.12.20%20PM.png)
+
 -> December Temperature summary statistics show that from a total count of 1517 the mean is 71.0, min is 53 and max is 83.0
+
 ![](Screen%20Shot%202021-06-27%20at%203.12.10%20PM.png)
+
 
 -> Standard deviation is 3.25 in June and 3.75 in December. The difference between these standard deviations is 0.50
 
