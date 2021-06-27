@@ -13,6 +13,7 @@ The purpose of this analysis is to analize the temperature statistics from the m
 *Standard deviation is 3.25 in June and 3.75 in December. The difference between these standard deviations is 0.50
 
 #SUMMARY
+
 The temperature results from June and December are somewhat close to each other depite June having a higher sample size compared to December.The sample size may be a factor as to why we observe higher summary statistics in June compared to December.The min temperature difference between the two months is approximately 4 and the max temperature difference is 2 indicating that the temperature difference in these months doesn't vary much. Also, the standard deviation for both months is small(approximately 3) meaning that the results are close to the mean.
 
 Another query we should consider running would be a Precipitation query for June and December. The results would help us determine with month has more rain.
